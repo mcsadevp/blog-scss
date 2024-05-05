@@ -1,0 +1,23 @@
+.main-form {
+  display: flex;
+  justify-content: center;
+  padding: 1rem;
+}
+.main-card__container {
+  background-color: lightgray;
+  border-radius: 10px;
+  margin: 3rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+}
+.section1__date-logo {
+  display: flex;
+  padding-top: 1rem;
+  padding-left: 3rem;
+}
+.section1__title{
+  text-align: center;
+}

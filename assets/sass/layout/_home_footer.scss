@@ -1,0 +1,30 @@
+
+.footer {
+  height: 74px;
+  display: flex;
+  color: black;
+}
+.footer__container {
+  display: flex;
+  padding-top: 17px;
+  padding-bottom: 17px;
+  padding-left: 107px;
+}
+.footer__image {
+  padding: 5px;
+  border-radius: 10px;
+  height: 54px;
+}
+.footer__text--weight700 {
+  font-weight: 700;
+  padding-top: 15px;
+  font-size: 15px;
+  
+}
+.footer__text--weight400 {
+  font-weight: 400;
+  padding-left: 750px;
+  padding-top: 30px;
+  font-size: 15px;
+  
+}

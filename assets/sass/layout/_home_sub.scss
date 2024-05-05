@@ -1,0 +1,22 @@
+.subscription {
+  background-color: green;
+  border-radius: 10px;
+  height: 10rem;
+  width: 70rem;
+  padding: 1rem;
+  padding-inline: 5rem;
+  margin-left: 5rem;
+}
+
+.sub__title--white {
+  color: white;
+  width: 30rem;
+  font-size: 2rem;
+  margin-left: 8rem;
+  justify-content: center;
+}
+
+.input_button {
+  display: flex;
+  justify-content: space-evenly;
+}

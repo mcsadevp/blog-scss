@@ -1,0 +1,293 @@
+.populares__container {
+  display: flex;
+  padding: 75px;
+}
+.populares__title {
+  font-weight: 700;
+  font-size: 42px;
+  margin-bottom: 3rem;
+}
+.populares-card__container {
+  display: flex;
+}
+.card5__container {
+  height: 350px;
+  width: 300px;
+  padding: 1px;
+  margin-right: 10px;
+}
+.card5__image {
+  height: 205px;
+  width: 300px;
+  border-radius: 10px;
+}
+.card5__date {
+  font-weight: 400;
+  font-size: 15px;
+}
+.card5__text--emphasis {
+  font-weight: 700;
+  text-align: center;
+  padding-bottom: 25px;
+  font-size: 25px;
+}
+.card5__logo__container {
+  display: flex;
+}
+
+.card5__logo__image {
+  border-radius: 100px;
+  height: 44px;
+}
+
+.card5__logo__text {
+  font-weight: 500;
+  padding: 7px;
+  font-size: 15px;
+}
+
+.card6__container {
+  height: 350px;
+  width: 300px;
+  padding: 1px;
+}
+
+.card6__image {
+  height: 205px;
+  width: 300px;
+  border-radius: 10px;
+}
+.card6__date {
+  font-weight: 400;
+  font-size: 15px;
+}
+.card6__text--emphasis {
+  font-weight: 700;
+  font-size: 25px;
+}
+.card6__logo__container {
+  display: flex;
+}
+
+.card6__logo__image {
+  border-radius: 100px;
+  height: 44px;
+}
+
+.card6__logo__text {
+  font-weight: 500;
+  padding: 7px;
+  font-size: 15px;
+}
+.section2a2__container {
+  display: flex;
+}
+.card7__container {
+  height: 350px;
+  width: 300px;
+  padding: 10px;
+  margin-right: 10px;
+}
+.card7__image {
+  height: 205px;
+  width: 300px;
+  border-radius: 10px;
+}
+.card7__date {
+  font-weight: 400;
+  font-size: 15px;
+}
+.card7__text--emphasis {
+  font-weight: 700;
+  font-size: 25px;
+}
+.card7__logo__container {
+  display: flex;
+}
+
+.card7__logo__image {
+  border-radius: 100px;
+  height: 44px;
+}
+
+.card7__logo__text {
+  font-weight: 500;
+  padding: 7px;
+  font-size: 15px;
+}
+.card8__container {
+  height: 350px;
+  width: 300px;
+  padding: 10px;
+}
+.card8__image {
+  height: 205px;
+  width: 300px;
+  border-radius: 10px;
+}
+.card8__date {
+  font-weight: 400;
+  font-size: 15px;
+}
+.card8__text--emphasis {
+  font-weight: 700;
+  font-size: 25px;
+}
+.card8__logo__container {
+  display: flex;
+}
+
+.card8__logo__image {
+  border-radius: 100px;
+  height: 44px;
+}
+
+.card8__logo__text {
+  font-weight: 500;
+  padding: 7px;
+  font-size: 15px;
+}
+.categoria__container {
+  padding-left: 200px;
+}
+.categoria__title {
+  font-weight: 700;
+  font-size: 42px;
+  margin-bottom: 3rem;
+}
+.categoria__block1 {
+  border-radius: 10px;
+  margin: 10px;
+  display: flex;
+  background-color: #e93e30;
+  height: 90px;
+  width: 295px;
+}
+
+.categoria__image1 {
+  height: 70px;
+  width: 60px;
+}
+.categoria__block1__title--white {
+  color: #ffffff;
+  font-weight: 700;
+  padding-left: 100px;
+  padding-top: 15px;
+  font-size: 35px;
+}
+
+.categoria__block2 {
+  border-radius: 15px;
+  margin: 10px;
+  display: flex;
+  background-color: #f7e018;
+  height: 90px;
+  width: 295px;
+}
+
+.categoria__image2 {
+  height: 60px;
+  width: 50px;
+  padding: 5px;
+}
+.categoria__block2__title--white {
+  color: #ffffff;
+  font-weight: 700;
+  padding-left: 25px;
+  padding-top: 15px;
+  font-size: 35px;
+}
+
+.categoria__block3 {
+  border-radius: 10px;
+  margin: 10px;
+  display: flex;
+  background-color: #299ed5;
+  height: 90px;
+  width: 295px;
+}
+
+.categoria__image3 {
+  height: 68px;
+  width: 59px;
+  padding: 5px;
+}
+.categoria__block3__title--white {
+  color: #ffffff;
+  font-weight: 700;
+  padding-left: 105px;
+  padding-top: 15px;
+  font-size: 35px;
+}
+
+.categoria__block4 {
+  border-radius: 10px;
+  margin: 10px;
+  display: flex;
+  background-color: #292c33;
+  height: 90px;
+  width: 295px;
+}
+
+.categoria__image4 {
+  height: 68px;
+  width: 68px;
+  padding: 3px;
+}
+.categoria__block4__title--white {
+  color: #ffffff;
+  font-weight: 700;
+  padding-left: 65px;
+  padding-top: 15px;
+  font-size: 35px;
+}
+
+.categoria__block5 {
+  border-radius: 10px;
+  margin: 10px;
+  display: flex;
+  background-color: #67c770;
+  height: 90px;
+  width: 295px;
+}
+
+.categoria__image5 {
+  height: 70px;
+  width: 70px;
+  padding: 5px;
+}
+.categoria__block5__title--white {
+  color: #ffffff;
+  font-weight: 700;
+  padding-left: 90px;
+  padding-top: 15px;
+  font-size: 35px;
+}
+
+.categoria__block6 {
+  border-radius: 10px;
+  margin: 10px;
+  display: flex;
+  background-color: #563d7c;
+  height: 90px;
+  width: 295px;
+}
+
+.categoria__image6 {
+  height: 68px;
+  width: 59px;
+  padding: 5px;
+}
+.categoria__block6__title--white {
+  color: #ffffff;
+  font-weight: 700;
+  padding-left: 15px;
+  padding-top: 15px;
+  font-size: 35px;
+}
+.categoria__tex {
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+  padding-left: 15px;
+}
